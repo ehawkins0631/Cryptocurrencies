@@ -18,6 +18,7 @@ Steps followed during  this project:
 * Visualizing results. In this final step, we used: a 3D scatter plot to visualize the three PCAs.
 
 Figure 1:
+
 ![image](https://user-images.githubusercontent.com/101227930/184193382-a08bde91-1150-4a30-a4ae-40f609034fdb.png)
 
 
