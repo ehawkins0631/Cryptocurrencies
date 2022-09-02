@@ -43,9 +43,6 @@ We can use these findings to compare all cryptocurrencies against Bitcoin, and t
 
 
 
-
-
-
 Contact:
 
 email: ehawkins0631@gmail.com
