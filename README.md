@@ -29,24 +29,6 @@ It would be very instrumental to run this analysis again without the Bitcoin dat
 We can use these findings to compare all cryptocurrencies against Bitcoin, and to re-run the unsupervised machine learning without Bitcoin to more fully understand the rest of the cryptocurrency market.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Contact:
 
 email: ehawkins0631@gmail.com
