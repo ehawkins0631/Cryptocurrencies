@@ -27,3 +27,17 @@ Conclusions
 Bitcoin is in a class by itself. This is obvious in both the three dimensional cluster modeling and the scatterplot. This is obviously useful as Bitcoin can be studied as an exemplar.
 It would be very instrumental to run this analysis again without the Bitcoin data, so see if the elbow curve finds a different optimal cluster value and so that we can see the distribution of the data better in the 3D Plot. 
 We can use these findings to compare all cryptocurrencies against Bitcoin, and to re-run the unsupervised machine learning without Bitcoin to more fully understand the rest of the cryptocurrency market.
+
+
+
+
+
+
+Contact:
+
+email: ehawkins0631@gmail.com
+
+twitter: @evahawkins3006
+
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNFb6lLqT5%2BphXu1GpAOrQ%3D%3D
+
