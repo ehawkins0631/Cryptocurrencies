@@ -9,6 +9,7 @@ classifications for developing an investment product. Unsupervised machine learn
 
 Steps followed during  this project:
 
+
 * Data preprocessing. This step included in-depth data cleaning, such as removing null values and removing cryptocurrencies without coins mined. In addition, the encoding method "get_dummies()" was used for the text features and StandardScaler() was used to standardize and transform the data.
 
 * Reducing data dimensions using PCA. In this step, a Dataframe's dimensions was reduced to three principal components and a new dataframe was created.
