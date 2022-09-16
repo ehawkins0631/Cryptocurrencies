@@ -21,6 +21,7 @@ Steps followed during  this project:
 * Clustering cryptocurrencies using K-means. During step, an elbow curve was created to find the best value for the clustering groups and a K-means algorithm was used to predict the K clusters for the cryptocurrencies’s data.
 
 * Visualizing results. In this final step, we used: a 3D scatter plot to visualize the three PCAs.
+* 
 
 Figure 1:
 
