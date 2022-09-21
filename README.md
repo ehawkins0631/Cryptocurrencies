@@ -22,7 +22,6 @@ Steps followed during  this project:
 
 
 * Visualizing results. In this final step, we used: a 3D scatter plot to visualize the three PCAs.
-* 
 
 Figure 1:
 
