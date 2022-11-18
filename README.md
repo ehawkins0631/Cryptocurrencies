@@ -1,8 +1,6 @@
 Cryptocurrencies
 
-
 We used Unsupervised Machine Learning techniques to analyze cryptocurrency data.
-
 
 Project Overview
 
@@ -24,7 +22,6 @@ Figure 1:
 
 
 Conclusions
-
 
 Bitcoin is in a class by itself. This is obvious in both the three dimensional cluster modeling and the scatterplot. This is obviously useful as Bitcoin can be studied as an exemplar.
 It would be very instrumental to run this analysis again without the Bitcoin data, so see if the elbow curve finds a different optimal cluster value and so that we can see the distribution of the data better in the 3D Plot. 
