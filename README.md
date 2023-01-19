@@ -1,11 +1,8 @@
 Cryptocurrencies
 
-
 We used Unsupervised Machine Learning techniques to analyze cryptocurrency data.
 
-
 Project Overview
-
 
 This project uses machine learning to identify which cryptocurrencies are on the trading market and to better understand how cryptocurrencies should be grouped to create classifications for developing an investment product. Unsupervised machine learning was chosen used since there is no known output for "what I'm looking for". To group the cryptocurrencies. Clustering algorithm was also chosen to help determine whether or not I should be investing in this product.
 
@@ -31,8 +28,11 @@ We can use these findings to compare all cryptocurrencies against Bitcoin, and t
 
 Contact:
 
+
 email: ehawkins0631@gmail.com
 
+
 twitter: @evahawkins3006
+
 
 Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147/
